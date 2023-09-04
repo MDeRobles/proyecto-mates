@@ -1,1 +1,1 @@
-Esto sera un fichero para revertir comits. Acabado todo.
+Esto sera un fichero para revertir comits. Acabado todos.
